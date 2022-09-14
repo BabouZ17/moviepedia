@@ -1,0 +1,5 @@
+com/example/moviepedia/Movie/Movie.class
+com/example/moviepedia/Movie/MovieService.class
+com/example/moviepedia/MoviePediaApplication.class
+com/example/moviepedia/Movie/MovieRepository.class
+com/example/moviepedia/Movie/MovieController.class
